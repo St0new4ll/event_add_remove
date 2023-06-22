@@ -1,3 +1,19 @@
+!!!!!!!!!!!!!!!!!!!!!!
+
+
+Type in command line to run:
+
+npm install
+
+export NODE_OPTIONS=--openssl-legacy-provider
+
+npm start
+
+!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
